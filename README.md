@@ -1,5 +1,7 @@
 # Boolan前端规范指南
 
+![giphy-3.gif](http://upload-images.jianshu.io/upload_images/712028-14d2ec53cd4c3e5b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 1.前端开发通用指南
 
 ## 2.移动端开发
